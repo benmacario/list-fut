@@ -1,0 +1,9 @@
+.container {
+  width: 900px;
+  margin: 0 auto 0 auto;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+}
